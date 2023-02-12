@@ -1,0 +1,5 @@
+C:\Users\samuz\Documents\GitHub\Scripting\AvanceFinal\obj\Debug\net6.0\AvanceFinal.csproj.AssemblyReference.cache
+C:\Users\samuz\Documents\GitHub\Scripting\AvanceFinal\obj\Debug\net6.0\AvanceFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuz\Documents\GitHub\Scripting\AvanceFinal\obj\Debug\net6.0\AvanceFinal.AssemblyInfoInputs.cache
+C:\Users\samuz\Documents\GitHub\Scripting\AvanceFinal\obj\Debug\net6.0\AvanceFinal.AssemblyInfo.cs
+C:\Users\samuz\Documents\GitHub\Scripting\AvanceFinal\obj\Debug\net6.0\AvanceFinal.csproj.CoreCompileInputs.cache
